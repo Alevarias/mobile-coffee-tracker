@@ -2,4 +2,7 @@
     <string name="app_name">Coffee Tracker</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="avg_coffee_per_day_txt">Average Coffee Per Day: %1$d</string>
+    <string name="avg_coffee_per_week_txt">Average Coffee Per Week: %1$d</string>
+    <string name="avg_coffee_per_month_txt">Average Coffee Per Month: %1$d</string>
 </resources>
