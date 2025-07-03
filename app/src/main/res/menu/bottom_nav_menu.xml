@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/overviewFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/overview_nav_txt" />
+    <item
+        android:id="@+id/habitTrackerFragment"
+        android:icon="@drawable/outline_add_reaction_24"
+        android:title="@string/habit_nav_txt" />
+</menu>

@@ -5,4 +5,6 @@
     <string name="avg_coffee_per_day_txt">Average Coffee Per Day: %1$d</string>
     <string name="avg_coffee_per_week_txt">Average Coffee Per Week: %1$d</string>
     <string name="avg_coffee_per_month_txt">Average Coffee Per Month: %1$d</string>
+    <string name="overview_nav_txt">Overview</string>
+    <string name="habit_nav_txt">Habits</string>
 </resources>

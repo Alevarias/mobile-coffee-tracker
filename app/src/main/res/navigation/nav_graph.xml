@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/overviewFragment">
+
+    <fragment
+        android:id="@+id/overviewFragment"
+        android:name="com.example.coffeetracker.OverviewFragment"
+        android:label="fragment_overview"
+        tools:layout="@layout/fragment_overview" />
+    <fragment
+        android:id="@+id/habitTrackerFragment"
+        android:name="com.example.coffeetracker.HabitTrackerFragment"
+        android:label="fragment_habit_tracker"
+        tools:layout="@layout/fragment_habit_tracker" />
+</navigation>
