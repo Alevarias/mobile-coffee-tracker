@@ -15,4 +15,9 @@
         android:name="com.example.coffeetracker.HabitTrackerFragment"
         android:label="fragment_habit_tracker"
         tools:layout="@layout/fragment_habit_tracker" />
+    <fragment
+        android:id="@+id/brewInput"
+        android:name="com.example.coffeetracker.BrewInput"
+        android:label="fragment_brew_input"
+        tools:layout="@layout/fragment_brew_input" />
 </navigation>
